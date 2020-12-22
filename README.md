@@ -1,2 +1,2 @@
 # TFG_LR
-Linear Regresssion Example
+Linear regression example with just one neuron 
